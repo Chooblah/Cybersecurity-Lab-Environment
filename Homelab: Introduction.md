@@ -19,7 +19,7 @@ Homelabs are a great way to get hands-on experience with and learn new concepts.
 
 Creating a homelab allowed me to practice red-team concepts and think about how I could put a blue-team spin on things. I started out performing investigations and exploitation on virtual machines from VulnHub. I, then, began turning those investigations into mock write-ups, more akin to what I would provide an actual stakeholder. The more time I spend learning in the lab, the more I want to learn! 
 
-## 3. Don't Worry, Be Happy! <a name="problem-statement"></a>
+## 3. Don't Worry, Be Happy! <a name="dont-worry-be-happy"></a>
 
 If someone is unfamiliar with virtualization, setting up a homelab may be a daunting task. Don't worry! I will break down each and every step of the setup. This setup will be operating on a host machine that is running on Fedora Linux, so your setup steps may vary slightly. Take as much time as you need to understand each step.
 
