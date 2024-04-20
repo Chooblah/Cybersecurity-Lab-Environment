@@ -15,7 +15,7 @@ Before you begin, ensure you have the following:
 
 ### Step 1: Navigating To Network Manager
 
-![Step 1 Image](Homelab/Screenshots/Configuring Isolated Network/Navigating-To-Network-Manager.png)
+![Step 1 Image](<Screenshots/Configuring Isolated Network/Navigating-To-Network-Manager.png>)
 
 **Description:** When VirtualBox is opened for the first time, we are greeted with the "Welcome To VirtualBox" Screen. We need to navigate to the Network Manager, where we can then create the host-only network adapter.
 
@@ -28,7 +28,7 @@ Before you begin, ensure you have the following:
 
 ### Step 2: Creating Host-Only Network Adapter
 
-![Step 2 Image](Homelab/Screenshots/Configuring Isolated Network/Creating-Network-Adapter.png)
+![Step 2 Image](<Screenshots/Configuring Isolated Network/Creating-Network-Adapter.png>)
 
 **Description:** After Network Manager has been opened, we can then create, select, and view the default settings of the newly created network adapter. 
 
@@ -41,8 +41,8 @@ Before you begin, ensure you have the following:
 
 ### Step 3: Configuring Network Adapter
 
-![Configuration Tab 1](Homelab/Screenshots/Configuring Isolated Network/Adapter Settings Part 1.png)
-![Configuration Tab 2](Homelab/Screenshots/Configuring Isolated Network/Adapter Settings Part 2.png)
+![Configuration Tab 1](<Screenshots/Configuring Isolated Network/Adapter Settings Part 1.png>)
+![Configuration Tab 2](<Screenshots/Configuring Isolated Network/Adapter Settings Part 2.png>)
 
 **Description:** There are two parts to configuring a newly created host-only network adapter. First, we need to specify that we want to configure the adapter manually, and the next part is configuring the DHCP server. After the adapter has been configured, it is ready for VMs to utilize!
 
