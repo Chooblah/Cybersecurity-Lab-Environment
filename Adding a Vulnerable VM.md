@@ -22,7 +22,7 @@ During this step, we need to navigate the the Vulnhub website where we will down
 2. Click on the Address Bar and enter https://www.vulnhub.com/
 3. Hit the 'Enter' key to navigate to Vulnhub website
 
-![Step 1 Screenshot or Image](step1_image.png)
+![Navigating to Vulnhub](<Screenshots/Adding a Vulnerable VM/Navigating-To-Vulnhub.png>)
 
 ---
 
@@ -35,7 +35,7 @@ After we have navigated to the Vulnhub website, we need to find the VM that we a
 2. Hit Enter to Search
 3. Click on the Option for Metasploitable: 2
 
-![Step 2 Screenshot or Image](step2_image.png)
+![Searching and Selecting Vulnerable VM](<Screenshots/Adding a Vulnerable VM/Searching-and-Selecting-VM.png>)
 
 ---
 
@@ -48,7 +48,7 @@ Selecting the VM from the search or home page will bring you to that VMs summary
 2. Click a Valid Download Link to Begin the Download
 3. Wait for the Download to Complete
 
-![Step 3 Screenshot or Image](step3_image.png)
+![Downloading Vulnerable VM](<Screenshots/Adding a Vulnerable VM/Downloading-Vulnerable-VM.png>)
 
 ---
 
@@ -61,7 +61,10 @@ A VM needs to be created in VirtualBox with default settings and without an atta
 2. Configure the VM Using the Same Config in the Screenshots Provided
 3. Click the "Finish" Button to Finalize the Creation of the VM
 
-![Step 3 Screenshot or Image](step3_image.png)
+![Adding VM Part 1](<Screenshots/Adding a Vulnerable VM/Adding-VM-Part-1.png>)
+![Adding VM Part 2](<Screenshots/Adding a Vulnerable VM/Adding-VM-Part-2.png>)
+![Adding VM Part 3](<Screenshots/Adding a Vulnerable VM/Adding-VM-Part-3.png>)
+![Adding VM Part 4](<Screenshots/Adding a Vulnerable VM/Adding-VM-Part-4.png>)
 
 ---
 
@@ -74,7 +77,9 @@ After the files have finished downloading from Vulnhub, they need to be extracte
 2. Open the "Media" Section in VirtualBox
 3. Add Virtual Disk File Using Screenshots Provided
 
-![Step 3 Screenshot or Image](step3_image.png)
+![Adding Virtual Disk Part 1](<Screenshots/Adding a Vulnerable VM/Adding-VM-Drive-Part-1.png>)
+![Adding Virtual Disk Part 2](<Screenshots/Adding a Vulnerable VM/Adding-VM-Drive-Part-2.png>)
+![Adding Virtual Disk Part 3](<Screenshots/Adding a Vulnerable VM/Adding-VM-Drive-Part-3.png>)
 
 ---
 
@@ -87,7 +92,9 @@ Now that the virtual disk file has been added to VirtualBox, we need to configur
 2. Click on the "Storage" Tab 
 3. Add the Virtual Disk to VM Using Provided Screenshots
 
-![Step 3 Screenshot or Image](step3_image.png)
+![Configuring VM Storage Part 1](<Screenshots/Adding a Vulnerable VM/Configuring-VM-Storage-Part-1.png>)
+![Configuring VM Storage Part 2](<Screenshots/Adding a Vulnerable VM/Configuring-VM-Storage-Part-2.png>)
+![Configuring VM Storage Part 3](<Screenshots/Adding a Vulnerable VM/Configuring-VM-Storage-Part-3.png>)
 
 ---
 
@@ -100,8 +107,6 @@ In order for the VM to communicate with our Kali 'attacker' VM, it needs to be o
 2. Click on the "Network" Tab 
 3. Configure VM to Utilize Created Host-Only Network Adapter Using Same Steps as Last Guide
 
-![Step 3 Screenshot or Image](step3_image.png)
-
 ---
 
 ### Step 8: Starting VM In Headless Mode
@@ -113,7 +118,7 @@ Starting the VM in headless mode will prevent a separate window opening to displ
 2. Click on the Tiny Down Arrow Next to the Green "Start" Button
 3. Click on "Headless Start" to Start VM in Headless Mode
 
-![Step 3 Screenshot or Image](step3_image.png)
+![Starting VM In Headless Mode](<Screenshots/Adding a Vulnerable VM/Starting-VM-In-Headless-Mode.png>)
 
 ---
 
