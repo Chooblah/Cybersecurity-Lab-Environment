@@ -1,4 +1,4 @@
-# Homelab: Introduction
+# Cybersecurity Lab Environment: Introduction
 
 ---
 
